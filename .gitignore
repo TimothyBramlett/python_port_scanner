@@ -1,6 +1,7 @@
 
 # my virtual env
 venv*
+.idea
 
 
 # Byte-compiled / optimized / DLL files
